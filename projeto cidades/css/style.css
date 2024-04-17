@@ -1,0 +1,15 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background:linear-gradient(to bottom,blue,purple)
+}
+
+h2{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{font-size: larger;}
+
+body{background-color : rgba(131, 181, 228, 0.664);}
+
